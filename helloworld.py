@@ -1,2 +1,4 @@
 print("bonjour besoin d aide")
-input("saisir la reponse")
+v=input("saisir la reponse")
+print(v)
+print("merci bye")
